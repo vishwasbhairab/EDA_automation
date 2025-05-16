@@ -97,3 +97,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - This tool integrates common data science libraries like scikit-learn, pandas, and streamlit
 - Inspired by the need to automate repetitive EDA tasks in data science workflows
+## Streamlit App link: 
+https://edaautomation.streamlit.app/
